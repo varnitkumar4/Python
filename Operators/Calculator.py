@@ -1,0 +1,9 @@
+a = 10
+b = 8
+print ("addition of a+b = ",a+b)
+print ("subtractio of a-b = ",a-b)
+print ("multiply of a*b = ",a*b)
+print ("divide of a/b = ",a/b)
+print ("divide without point of a//b = ",a//b)
+print ("module of a%b = ",a%b)
+print ("exponential of a**b = ",2**4)
