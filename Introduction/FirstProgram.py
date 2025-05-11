@@ -1,2 +1,2 @@
 print("jay shree ram")
-print ("ram", "hanuman")
+print("ram", "hanuman")
