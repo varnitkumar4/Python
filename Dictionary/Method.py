@@ -10,3 +10,5 @@ print (dec1 , dec2)
 
 dec1.popitem()
 print (dec1)   # is me jo last me hoga usko pop karega 
+print(dec1.values())   # isme sirf value hoga 
+print(dec1.items())        # ye key our value dono deta hai
