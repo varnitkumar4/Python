@@ -6,7 +6,7 @@
 
 
 # f = open('FileHandling/myfile.txt' , 'w')
-# f.write("jay ho")  # jao ho likha gaya hoga pajle bala hat ke 
+# f.write("jay ho")  # jao ho likha gaya hoga pahle bala hat ke 
 # f.close()
 
 with open('FileHandling/myfile.txt' , 'a') as f:  # with ka use karenge to hamko close nahi karna parega
